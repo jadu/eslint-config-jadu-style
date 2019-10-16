@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jadu-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint configuration file used at Jadu",
   "main": "index.js",
   "scripts": {
