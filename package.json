@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/jadu/eslint-config-jadu-style/issues"
   },
-  "homepage": "https://github.com/jadu/eslint-config-jadu-style#readme"
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "homepage": "https://github.com/jadu/eslint-config-jadu-style#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.0.0"
+  }
 }
