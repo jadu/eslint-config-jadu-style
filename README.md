@@ -9,7 +9,7 @@ Our default export contains all of our ESLint rules, including ECMAScript 6+. It
 1. Install the correct versions of each package, which are listed by the command:
 
     ```sh
-    npm info "eslint-config-airbnb-base@latest" peerDependencies
+    npm info "eslint-config-jadu-style@latest" peerDependencies
     ```
 
     If using **npm 5+**, use this shortcut
