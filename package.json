@@ -21,7 +21,8 @@
     "url": "https://github.com/jadu/eslint-config-jadu-style/issues"
   },
   "peerDependencies": {
-    "eslint": ">= 4"
+    "eslint": ">= 4",
+    "eslint-plugin-import": "^2.18.2"
   },
   "homepage": "https://github.com/jadu/eslint-config-jadu-style#readme",
   "dependencies": {
