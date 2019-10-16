@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-jadu-style",
   "version": "1.0.0",
-  "description": "eslint ocnfiguration file used at Jadu",
+  "description": "eslint configuration file used at Jadu",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
