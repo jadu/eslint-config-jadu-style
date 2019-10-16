@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-jadu-style",
+  "version": "1.0.0",
+  "description": "eslint ocnfiguration file used at Jadu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadu/eslint-config-jadu-style.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "styleguide"
+  ],
+  "author": "Jadu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadu/eslint-config-jadu-style/issues"
+  },
+  "homepage": "https://github.com/jadu/eslint-config-jadu-style#readme"
+}
