@@ -9,6 +9,8 @@ module.exports = {
   rules: {
     'no-param-reassign': [2, { 'props': false }],
     'no-shadow': ['error', { 'allow': ['state', 'modules']}],
-    'no-empty': ['error', { 'allowEmptyCatch': true }]
+    'no-empty': ['error', { 'allowEmptyCatch': true }],
+    'arrow-parens': 'off',
+    'prefer-object-spread': 'off'
   }
 };
